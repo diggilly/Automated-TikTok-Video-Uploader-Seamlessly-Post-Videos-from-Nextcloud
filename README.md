@@ -1,0 +1,2 @@
+# Automated-TikTok-Video-Uploader-Seamlessly-Post-Videos-from-Nextcloud
+The Automated TikTok Video Uploader is a Python bot that streamlines posting videos from Nextcloud to TikTok. It features seamless integration, scheduled uploads, and robust error handling with logging. Ideal for content creators, this bot saves time by automating video uploads, allowing you to focus on creating engaging content!
