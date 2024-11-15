@@ -1,0 +1,25 @@
+# Required libraries for the Automated TikTok Video Uploader
+
+# TikTok API client library (you may need to find a suitable library based on your needs)
+tiktokapi==0.10.2
+
+# Nextcloud client library
+nextcloud-client==3.0.0
+
+# For environment variable management
+python-dotenv==0.19.2
+
+# For scheduling tasks
+schedule==1.1.0
+
+# For making HTTP requests
+requests==2.28.1
+
+# For logging
+loguru==0.5.3
+
+# For handling video files (optional, depending on your needs)
+moviepy==1.0.3
+
+# For Python 3 compatibility (if needed)
+future==0.18.2
